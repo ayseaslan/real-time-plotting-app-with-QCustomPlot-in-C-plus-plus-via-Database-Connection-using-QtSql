@@ -11,12 +11,12 @@ CONFIG += c++17
 SOURCES += \
     main.cpp \
     databaseplot.cpp\
-    C:\Users\aysea\OneDrive\Documents\NetworkPlot\qcustomplot.cpp \
+    qcustomplot.cpp \
 
 
 HEADERS += \
     databaseplot.h\
-    C:\Users\aysea\OneDrive\Documents\NetworkPlot\qcustomplot.h \
+    qcustomplot.h\
 
 FORMS += \
     databaseplot.ui
